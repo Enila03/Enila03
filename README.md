@@ -120,11 +120,11 @@ Eu me chamo Aline Hannah Takaiama, tenho 22 anos e sou formada em Ciência da Co
 
 <img 
     align="left"
-    alt="Microsoft SQL Server"
-    title="Microsoft SQL Server"
+    alt="My SQL"
+    title="My SQL"
     width="30px"
     style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
 />
           
 <br/>
