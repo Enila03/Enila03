@@ -1,3 +1,5 @@
+<img width="500" height="361" alt="Image" src="https://github.com/user-attachments/assets/65717595-d88d-4241-ba91-49e133a4bfc9" />
+
 # Hello World. I'm Hannah ❤
 
 **`Dev Full-Stack`**
