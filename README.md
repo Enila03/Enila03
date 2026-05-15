@@ -2,7 +2,7 @@
 
 **`Dev Full-Stack`**-->
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4500&pause=1000&color=4169E1&width=435&lines=Hello+World!+;I'm+Hannah+%E2%9D%A4;Dev+Full-Stack" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=VT323&size=40&duration=4500&pause=1000&color=4169E1&width=435&lines=Hello+World!+;I'm+Hannah+%E2%9D%A4;Dev+Full-Stack" alt="Typing SVG" /></a>
 
 Eu me chamo Aline Hannah Takaiama, tenho 22 anos e sou formada em Ciência da Computação pela UNIP. Minha paixão pela programação surgiu em 2018, quando iniciei meu curso de Informática na Etec de Vila Formosa e, desde então, venho explorando cada vez mais esse mundo.
 
