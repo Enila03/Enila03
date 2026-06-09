@@ -31,13 +31,13 @@ Eu me chamo Aline Hannah Takaiama, tenho 22 anos e sou formada em Ciência da Co
             src="https://custom-icon-badges.demolab.com/github/stars/Enila03?color=55960c&style=for-the-badge&labelColor=488207&logo=star"
         />
     </a>
-    <a href="https://github.com/Enila03?tab=followers">
+    <!--a href="https://github.com/Enila03?tab=followers">
         <img
             alt="Followers"
             title="Siga-me no GitHub"
             src="https://custom-icon-badges.demolab.com/github/followers/Enila03?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=followers&logoColor=white"
         />
-    </a>
+    </a-->
 </p> 
 
 ---
